@@ -1,8 +1,9 @@
 # Tomas Tisocco
 - 👋 Hi, I’m @tomasatisocco
 - 🤓 I’m finishing my studies in Electrical Engineering.
-- 🌱 I’m currently Developing in C++, Flutter and Python.
-- 💞️ I’m looking to collaborate on C++ Proyects and developing apps in Flutter.
+- 🌱 I’m currently Developing in Flutter(Dart), C++ and Python.
+- 💞️ I’m looking to work on Apps Development with Flutter and C++ proyects.
+- 👨‍💻 Here you are going to find some proyects from university, personal, and profesional.
 - 📫 You can find me on Instagram @tomastisocco
 
 <!---
